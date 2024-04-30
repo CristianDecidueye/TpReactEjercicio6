@@ -10,15 +10,15 @@
     </a>
     <br>
     <br>
-    <a href='https://reactejercicio6rolling.netlify.app/'>
+    <a href='https://reactejercicio6rolling.netlify.app/git push'>
     Reportar un problema
     </a>
     ·
-    <a href='https://reactejercicio6rolling.netlify.app/'>
+    <a href='https://reactejercicio6rolling.netlify.app/git push'>
     Solicitar una mejora
     </a>
     ·
-    <a href='https://reactejercicio6rolling.netlify.app/'>
+    <a href='https://reactejercicio6rolling.netlify.app/git push'>
     Soporte
     </a>
     </p>
