@@ -5,20 +5,20 @@
     <h1>Ejercicio 6</h1>
     <p>
     <br>
-    <a href='https://ejercicio3-tp6-react.netlify.app'>
+    <a href='https://reactejercicio6rolling.netlify.app/'>
     <strong>Explorar pagina » </strong>
     </a>
     <br>
     <br>
-    <a href='https://ejercicio3-tp6-react.netlify.app'>
+    <a href='https://reactejercicio6rolling.netlify.app/'>
     Reportar un problema
     </a>
     ·
-    <a href='https://ejercicio3-tp6-react.netlify.app'>
+    <a href='https://reactejercicio6rolling.netlify.app/'>
     Solicitar una mejora
     </a>
     ·
-    <a href='https://ejercicio3-tp6-react.netlify.app'>
+    <a href='https://reactejercicio6rolling.netlify.app/'>
     Soporte
     </a>
     </p>
