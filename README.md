@@ -1,8 +1,7 @@
 <!-- Proyect Logo -->
 <div align= "center">
-    <a href='https://ejercicio3-tp6-react.netlify.app'>
-    <img src='https://lh3.googleusercontent.com/proxy/RqstwJgG8OUEvrDMw8LE8We7bBHDP-PyxgECbFOxx5HhwQ3CRpD7Gpf8GxE3c-p_9OL0UGB1MQf1UfmoenZMIBfO2GBhIwybQtWJHuBP9gLYs86n-XBS2Ln92f3Xmg' alt='Rolling ' width='300' />
-    </a>
+    <a href='https://reactejercicio6rolling.netlify.app/'>
+     </a>
     <h1>Ejercicio 6</h1>
     <p>
     <br>
@@ -27,7 +26,7 @@
 
 ## Tabla de contenido
 
-- [💻 Ejercicio 3](#💻-Ejercicio-6)
+- [💻 Ejercicio 6](#💻-Ejercicio-6)
 - [⚒️ Tecnologias](#⚒️-tecnologías-implementadas)
 - [✅ Requisitos](#✅requisitos)
 - [💿 Instalacion](#💿instalacion-y-uso)
